@@ -24,7 +24,7 @@ return [
     |
     */
 
-    'destination' => base_path('static'),
+    'destination' => base_path('docs'),
 
     /*
     |--------------------------------------------------------------------------
